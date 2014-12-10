@@ -1,0 +1,6 @@
+Points:
+Point1: x1=50, y1=60
+Point2: x2=245, y2=15
+Point3: x3=230, y3=170
+Point4: x4=50, y4=300
+Point5: x5=300, y5=100

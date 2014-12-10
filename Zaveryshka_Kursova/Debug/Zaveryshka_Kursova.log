@@ -1,0 +1,20 @@
+﻿Build started 30.11.2014 12:06:32.
+     1>Project "E:\КУРСОВІ\Zaveryshka_Kursova\Zaveryshka_Kursova\Zaveryshka_Kursova.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\VS 2012\VC\bin\CL.exe /c /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr:pure /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Zaveryshka_Kursova.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib Painter.cpp
+         Painter.cpp
+     1>Painter.cpp(43): warning C4101: 'e' : unreferenced local variable
+       Link:
+         D:\VS 2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\КУРСОВІ\Zaveryshka_Kursova\Debug\Zaveryshka_Kursova.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:Debug\Zaveryshka_Kursova.Form1.resources /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\КУРСОВІ\Zaveryshka_Kursova\Debug\Zaveryshka_Kursova.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\AssemblyInfo.obj
+         Debug\CustomPoint.obj
+         Debug\Painter.obj
+         Debug\stdafx.obj
+         Debug\Zaveryshka_Kursova.obj
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Zaveryshka_Kursova.vcxproj -> E:\КУРСОВІ\Zaveryshka_Kursova\Debug\Zaveryshka_Kursova.exe
+     1>Done Building Project "E:\КУРСОВІ\Zaveryshka_Kursova\Zaveryshka_Kursova\Zaveryshka_Kursova.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:12.90

@@ -1,0 +1,2 @@
+Points on a left side of the segment:
+Point4: x4=50, y4=300
